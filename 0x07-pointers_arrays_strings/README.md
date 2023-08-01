@@ -1,1 +1,1 @@
-read file
+READ file 
